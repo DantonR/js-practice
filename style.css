@@ -1,0 +1,12 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Courier";
+  font-size: 18px;
+}
+
+main {
+  max-width: 500px;
+  margin: 0 auto;
+}
